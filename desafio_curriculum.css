@@ -1,0 +1,76 @@
+               /*Inicio*/
+
+ body{
+    background-color: #aacf80;
+    
+ }
+
+
+    h1{
+      text-indent: 10px;
+      background-color: #90c961;
+      margin :25px 400px 25px 400px;      
+      color: rgb(0,0,0);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 35px;
+      text-align: center;
+      
+        
+        
+       
+ }
+
+        h2{
+            text-indent: 10px;
+            color: rgb(0, 0, 0);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 30px;
+            text-align: left;
+    
+ }
+
+            h3{ 
+               text-indent: 10px; 
+                color: rgb(0, 0, 0);
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 25px;
+                text-align: left;
+   
+ }
+
+                 p{ 
+                    text-align: justify;
+                    text-indent: 10px;
+                    color: rgb(0,0,0);
+                    font-family:'Times New Roman', Times, serif;
+                    font-size: 18px;
+                    font-weight: 400;
+                    text-indent: none;
+                 }
+
+                       a{
+                            color: rgb(24, 8, 240);
+                            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+                            font-style: none;
+                            font-weight: 700;
+                            text-decoration: none;
+                            font-size: 18px;
+
+                            }
+
+                               hr {
+                                    border: none;               
+                                    height: 3px;                
+                                    background-color: rgb(50, 70, 27);  
+                                            
+                                 }
+
+                                    p b {
+                                          
+                                          font-weight: bold;       
+                                          color: inherit;          
+                                          font-family: inherit;    
+                                          font-size: inherit;      
+                                       }
+                          
+                        
