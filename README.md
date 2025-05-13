@@ -23,5 +23,5 @@ Aqui estão os principais arquivos deste projeto:
 
 ## 📬 Contato  
 Caso queira entrar em contato comigo, veja meus links:  
-🔗 **LinkedIn:** [seu-linkedin](www.linkedin.com/in/josephhartmann12)  
+🔗 **LinkedIn:** www.linkedin.com/in/josephhartmann12  
 ✉️ **E-mail:** hartmann_joseph@hotmail.com  
